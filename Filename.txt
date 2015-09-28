@@ -1,3 +1,0 @@
-This is my file content1
-This is my file content2
-This is my file content3
